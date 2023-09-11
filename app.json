@@ -1,0 +1,12 @@
+{
+  "name": "SulllivanBot",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/RizkiIqbal02/RizkiIqbal02.github.io",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
